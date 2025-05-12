@@ -3,8 +3,6 @@
 ## Project Description
 This is a Django-based travel booking web application using Aiven as the SQL database. The application allows users to register, log in, view travel options, book tickets, and manage their bookings.
 
-## Deployment Link
-- https://news-api-nine-beige.vercel.app/
 
 ## Features
 - User authentication (Register, Login, Logout)
@@ -17,12 +15,12 @@ This is a Django-based travel booking web application using Aiven as the SQL dat
 Ensure you have the following installed:
 - Python 3.10+
 - Git
-- PostgreSQL or any SQL-compatible database
+- Any SQL-compatible database
 
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/deepanshoo/travel-lykke.git
+git clone https://github.com/chiragdayal50/Travel-Booking
 cd travel-booking
 ```
 
